@@ -1,2 +1,6 @@
-/home/fusheng/.emacs.d/lisp/init-ui.el
-/home/fusheng/.emacs.d/lisp/#init-ui.el#
+/home/fusheng/.emacs.d/init.el
+/home/fusheng/.emacs.d/#init.el#
+/home/fusheng/.emacs.d/lisp/init-pyim.el
+/home/fusheng/.emacs.d/lisp/#init-pyim.el#
+/home/fusheng/.emacs.d/lisp/init-lsp.el
+/home/fusheng/.emacs.d/lisp/#init-lsp.el#

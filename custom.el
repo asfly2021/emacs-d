@@ -5,7 +5,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (neotree use-package smart-mode-line seti-theme restart-emacs pyim-basedict pyim ivy idea-darkula-theme dashboard company-box all-the-icons))))
+    (helm-lsp which-key yasnippet flycheck projectile use-package smart-mode-line seti-theme restart-emacs pyim-basedict pyim neotree lsp-ui lsp-java ivy idea-darkula-theme dashboard company-box all-the-icons))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
