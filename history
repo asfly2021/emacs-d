@@ -3,6 +3,6 @@
 
 (setq savehist-minibuffer-history-variables '(input-method-history yes-or-no-p-history file-name-history minibuffer-history extended-command-history))
 (setq yes-or-no-p-history '("yes" "y" "yes" "yse" "yes" "es" "yes" "y" "no"))
-(setq file-name-history '("~/.emacs.d/lisp/init-ui.el" "~/.emacs.d/lisp/init-ui" "~/.emacs.d/lisp/init-ui.el" "~/.emacs.d/lisp/init-use-package.el" "~/.emacs.d/lisp/init-package.el" "/home/fusheng/.emacs.d/init.el" "/home/fusheng/emacs.d" "/mnt/f/JavaScript/vue-demo/src/main.js" "~/.emacs.d/init.el"))
+(setq file-name-history '("~/.emacs.d/lisp/init-ui.el" "/mnt/f/RuoYi/ruoyi-admin/src/main/java/com/ruoyi/RuoYiApplication.java" "~/.emacs.d/lisp/init-ui.el" "~/.emacs.d/lisp/init-ui" "~/.emacs.d/lisp/init-ui.el" "~/.emacs.d/lisp/init-use-package.el" "~/.emacs.d/lisp/init-package.el" "/home/fusheng/.emacs.d/init.el" "/home/fusheng/emacs.d" "/mnt/f/JavaScript/vue-demo/src/main.js" "~/.emacs.d/init.el"))
 (setq minibuffer-history '("all-the-icons" "dashboard" "company" "pyim" "seti" "setiseti"))
 (setq extended-command-history '("restart-emacs" "package-install" "all-the-icons-install-fonts" "package-install" "all-the-icons-install-fonts" "package-install" "company-mode" "package-install" "package-list-packages" "package-install" "load-theme" "package-list-packages" "load-theme" "package-list-packages" "package-install" "eval-region" "tool-bar-mode"))

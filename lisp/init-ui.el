@@ -27,4 +27,7 @@
 ;; 重启emacs
 (use-package restart-emacs)
 
+(use-package neotree
+  :init
+  (global-set-key [f8] 'neotree-toggle))
 (provide 'init-ui)
