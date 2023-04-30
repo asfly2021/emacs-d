@@ -4,7 +4,10 @@
   :init
   (dashboard-setup-startup-hook)
   ;; Set the title
-  (setq dashboard-banner-logo-title "Talk is cheap. Show me the code"))
+  (setq dashboard-startup-banner "/Users/shengfu/.emacs.d/img/logo.png")
+  (setq dashboard-banner-logo-title "Talk is cheap. Show me the code")
+
+  )
 
 
 
