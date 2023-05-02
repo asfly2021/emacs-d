@@ -1,0 +1,17 @@
+cd 
+ls
+cd .emacs.d/
+ls
+git pull
+git add --all
+git commit -m"change company-box"
+git push
+ssh git@github.com
+git config --global user.name "asfly@mac"
+git config --global user.email "asfly@mac.com"
+ssh-keygen -t rsa -C "asfly@mac.com"
+cd 
+ls -a
+cd /var/root/.ssh
+ls
+emacs id_rsa

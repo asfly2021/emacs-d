@@ -3,10 +3,10 @@
 
 (require 'init-elpa)
 (require 'init-base)
-(require 'init-lsp)
 (require 'init-ui)
 (require 'init-pyim)
-(require 'init-company)
 (require 'init-org-mode)
+(require 'init-eglot)
+(require 'init-edit)
 
 (provide 'init)
