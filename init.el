@@ -5,7 +5,7 @@
 (require 'init-base)
 (require 'init-ui)
 (require 'init-pyim)
-(require 'init-org-mode)
+(require 'init-org)
 (require 'init-eglot)
 (require 'init-edit)
 
